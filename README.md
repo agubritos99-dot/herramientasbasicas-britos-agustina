@@ -38,11 +38,17 @@ Herramientas utilizadas:
 - Power Bi
 
 ## Resultados 
-1. Suscripción mas elegida: Básica
+1. Suscripción mas elegida:
+La suscripción Basic es la más frecuente entre los usuarios activos, con 1.027 usuarios, mientras que Standard y Premium presentan cantidades similares, con 748 y 740 usuarios respectivamente.
 <img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/3b8f3e32-4133-42c6-8638-6afd5473f57f" />
 
-   
-3. Género mas visto: 
+2. Género favorito por región y rango etario:
+Drama aparece como género predominante entre los usuarios mas jóvenes en África, Europa y Oceanía, mientras que en Norteamérica y Sudamérica predomina Romance para este grupo. En los usuarios de mayor edad, se observan diferentes preferencias según la región sin un género predominante.
+<img width="771" height="471" alt="image" src="https://github.com/user-attachments/assets/d5b962a8-1371-4ec7-bfb9-ae400856ffb9" />
+
+3. Métodos de pago mas utilizados por región:
+Los métodos de pago mas elgidos en todas las regiones son Crypto y Gift Card.
+<img width="850" height="597" alt="image" src="https://github.com/user-attachments/assets/e8d2fd73-e99e-400d-88a6-8bbdd1184f78" />
 
 
 
