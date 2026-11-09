@@ -1,7 +1,7 @@
 # Proyecto Final | Análisis de Datos
 **Autor:** Agustina Britos  
 **Curso:** Herramientas Básicas para el Análisis de Datos
-**Cohorte:** 2026
+**Año:** 2026
 
 # Análisis característico de los Usuarios de Netflix
 Este proyecto busca analizar de manera integral las características y preferencias de los usuarios de la plataforma de streaming en función de factores determinantes como la edad, el comportamiento de visualización y la ubicación geográfica. 
