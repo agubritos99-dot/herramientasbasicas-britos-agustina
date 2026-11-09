@@ -1,25 +1,27 @@
-# Proyecto Final | Análisis de Datos
+# 📊 Proyecto Final | Análisis de Datos
 **Autor:** Agustina Britos  
 
 **Curso:** Herramientas Básicas para el Análisis de Datos
 
 **Año:** 2026
 
-# Análisis característico de los Usuarios de Netflix
+# 🎬 Análisis característico de los Usuarios de Netflix
 Este proyecto busca analizar de manera integral las características y preferencias de los usuarios de la plataforma de streaming en función de factores determinantes como la edad, el comportamiento de visualización y la ubicación geográfica. 
 
-## Interrogante principal
+## 🎯 Interrogante principal
 ¿Cuáles son las características de los usuarios actuales de Netflix en relación con su tipo de suscripción, género favorito y método de pago en las diferentes regiones del mundo?
 
-## Objetivos específicos
+## 📌 Objetivos específicos
 - Conocer qué tipo de suscripción es la más frecuente entre los usuarios activos de la plataforma.
 - Investigar cuál es el género de contenido más visto en cada región desglosado por rango etario.
 - Detectar cuál es el método de pago más elegido por los usuarios según su zona geográfica.
 
-## Dataset utilizado
-El archivo inicial fue obtenido a través de la plataforma de Kaggle[cite: 3]. El dataset contiene 5.000 filas y 14 columnas. Cada registro corresponde a un usuario único e incluye información detallada sobre edad, género, tipo de suscripción, horas de visualización, días desde la última conexión, región, dispositivo, monto mensual, estado de la cuenta, método de pago, cantidad de perfiles y género favorito.
+## 🛠️ Dataset utilizado
+El archivo inicial fue obtenido a través de la plataforma de Kaggle.
+El dataset contiene 5.000 filas y 14 columnas. 
+Cada registro corresponde a un usuario único e incluye información detallada sobre edad, género, tipo de suscripción, horas de visualización, días desde la última conexión, región, dispositivo, monto mensual, estado de la cuenta, método de pago, cantidad de perfiles y género favorito.
 
-## Tecnologías y librerías
+## 🛠️ Tecnologías y librerías
 El flujo de trabajo analítico se desarrolló utilizando las siguientes herramientas:
 - Python
 - Pandas
@@ -28,7 +30,7 @@ El flujo de trabajo analítico se desarrolló utilizando las siguientes herramie
 - Seaborn
 - Power BI
 
-## Resultados y hallazgos principales
+## 💡 Resultados y hallazgos principales
 
 ### 1. Suscripción más elegida
 La suscripción **Basic** es la más frecuente entre los usuarios activos, concentrando 1.027 usuarios, mientras que las modalidades Standard y Premium presentan cifras similares, con 748 y 740 usuarios respectivamente.
@@ -60,4 +62,5 @@ El análisis global demuestra que los métodos de pago más elegidos de manera g
 
 **Agustina Britos**  
 *Ingeniera Química / Perfil en transición y especialización en Análisis de Datos (Python, Power BI y Ciencia de Datos).*
+
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/agustina-britos-b96a2b18b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
