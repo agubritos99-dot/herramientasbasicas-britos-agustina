@@ -31,7 +31,7 @@ Cada registro corresponde a un usuario registrado en la plataforma e incluye inf
 
 ## Tecnologías y librerías
 Herramientas utilizadas:
-- Python 2.2.3
+- Python
 - Pandas
 - Numpy
 - Matplotlib
