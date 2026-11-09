@@ -53,5 +53,8 @@ Drama aparece como género predominante entre los usuarios mas jóvenes en Áfri
 Los métodos de pago mas elegidos en todas las regiones son Crypto y Gift Card.
 <img width="850" height="597" alt="image" src="https://github.com/user-attachments/assets/e8d2fd73-e99e-400d-88a6-8bbdd1184f78" />
 
+## Autor
 
+Agustina Britos
 
+https://www.linkedin.com/in/agustina-britos-b96a2b18b?utm_source=share_via&utm_content=profile&utm_medium=member_ios
