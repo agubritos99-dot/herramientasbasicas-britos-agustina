@@ -39,6 +39,7 @@ Herramientas utilizadas:
 - Power Bi
 
 ## Enlaces del proyecto
+Data set inicial: https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/tree/main/dataset
 
 ## Resultados 
 1. Suscripción mas elegida:
