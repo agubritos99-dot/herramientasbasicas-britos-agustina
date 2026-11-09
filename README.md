@@ -12,7 +12,7 @@ Este proyecto busca analizar las características y preferencias de los usuarios
 - Detectar cuál es el metodo de pago mas elegido de cada region.
 
 ## Data Set utilizado
-En esta oportunidad se obtuvo el archivo inicial a través de la plataforma de Kaggle. 
+En esta oportunidad se obtuvo el archivo inicial a través de la plataforma de Kaggle, el mismo contiene 5000 filas y 14 columnas.
 Cada registro corresponde a un usuario registrado en la plataforma e incluye informacion sobre:
 - Edad del usuario
 - Género del usuario.
