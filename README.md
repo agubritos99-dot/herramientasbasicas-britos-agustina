@@ -30,10 +30,19 @@ Cada registro corresponde a un usuario registrado en la plataforma e incluye inf
 
 ## Tecnologías y librerías
 Herramientas utilizadas:
+- Python 2.2.3
 - Pandas
 - Numpy
 - Matplotlib
 - Seaborn
 - Power Bi
+
+## Resultados 
+1. Suscripción mas elegida: Básica
+<img width="704" height="471" alt="image" src="https://github.com/user-attachments/assets/3b8f3e32-4133-42c6-8638-6afd5473f57f" />
+
+   
+3. Género mas visto: 
+
 
 
