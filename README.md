@@ -1,6 +1,8 @@
 # Proyecto Final | Análisis de Datos
 **Autor:** Agustina Britos  
+
 **Curso:** Herramientas Básicas para el Análisis de Datos
+
 **Año:** 2026
 
 # Análisis característico de los Usuarios de Netflix
@@ -46,14 +48,16 @@ El análisis global demuestra que los métodos de pago más elegidos de manera g
 ---
 
 ## 🔗 Enlaces del proyecto
-* 📂 [Dataset inicial](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/tree/main/dataset)[cite: 3]
-* 📓 [Notebook de Análisis](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/notebook/DS_USUARIOS_NETFLIX.ipynb)[cite: 3]
-* 📊 [Dashboard interactivo](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/power_bi/DS.USUARIOS_NETFLIX.pbix)[cite: 3]
+* 📂 [Dataset inicial](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/tree/main/dataset)
+* 📓 [Notebook de Análisis](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/notebook/DS_USUARIOS_NETFLIX.ipynb)
+* 📊 [Dashboard interactivo](https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/power_bi/DS.USUARIOS_NETFLIX.pbix)
 
 ## 📚 Referencias y Fuentes
-* **Plataforma de datos:** Kaggle Datasets[cite: 3]. Disponible en: [https://www.kaggle.com](https://www.kaggle.com)[cite: 3].
-* **Metodología e imágenes:** Elaboración propia basada en el EDA realizado en Python y la visualización en Power BI[cite: 1, 3].
+* **Plataforma de datos:** Kaggle Datasets Disponible en: [https://www.kaggle.com](https://www.kaggle.com).
+* **Metodología e imágenes:** Elaboración propia basada en el EDA realizado en Python y la visualización en Power BI
 
-## Autor
-Nombre: Agustina Britos  
-[LinkedIn](https://www.linkedin.com/in/agustina-britos-b96a2b18b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+## 👨‍💻 Autora / Contacto
+
+**Agustina Britos**  
+*Ingeniera Química / Perfil en transición y especialización en Análisis de Datos (Python, Power BI y Ciencia de Datos).*
+**Contacto:** [LinkedIn](https://www.linkedin.com/in/agustina-britos-b96a2b18b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
