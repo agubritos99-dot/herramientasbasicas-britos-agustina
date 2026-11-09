@@ -39,9 +39,9 @@ Herramientas utilizadas:
 - Power Bi
 
 ## Enlaces del proyecto
-[Data set inicial] https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/tree/main/dataset
-[Notebook de Análisis] https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/notebook/DS_USUARIOS_NETFLIX.ipynb
-[Dashboard interactivo] https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/power_bi/DS.USUARIOS_NETFLIX.pbix
+[Data set inicial] (https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/tree/main/dataset)
+[Notebook de Análisis] (https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/notebook/DS_USUARIOS_NETFLIX.ipynb)
+[Dashboard interactivo] (https://github.com/agubritos99-dot/herramientasbasicas-britos-agustina/blob/main/power_bi/DS.USUARIOS_NETFLIX.pbix)
 
 ## Resultados 
 1. Suscripción mas elegida:
